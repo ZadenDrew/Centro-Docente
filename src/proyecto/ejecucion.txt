@@ -1,0 +1,2 @@
+InsertarPersona profesor "Luis" "Lopez" 18/10/1980 titular "telematica" 2
+InsertarPersona alumno "Andrea" "Cabezas Lopez" 6/7/1985 15/9/2012 6.50 6
